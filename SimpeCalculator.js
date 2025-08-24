@@ -4,7 +4,7 @@ class Calculator{
         console.log("Calculator initialized 18");
     }
 
-    add(a, b) {
+    tambah(a, b) {
         return a + b;
     }
 
