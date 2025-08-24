@@ -4,19 +4,19 @@ class Calculator{
         console.log("Calculator initialized 18");
     }
 
-    tambahan(a, b) {
+    add(a, b) {
         return a + b;
     }
 
-    pengurangan(a, b) {
+    subtract(a, b) {
         return a - b;
     }
 
-    perkalian(a, b) {
+    subtraction(a, b) {
         return a * b;
     }
 
-    pembagian(a, b) {
+    divide(a, b) {
         if (b === 0) {
             throw new Error("Tidak bisa membagi dengan nol!");
         }
