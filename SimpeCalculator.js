@@ -1,7 +1,7 @@
 
 class Calculator{
     constructor() {
-        console.log("Calculator initialized...");
+        console.log("Calculator initialized 12");
     }
 
     add(a, b) {
